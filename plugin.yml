@@ -1,0 +1,10 @@
+name: xCommands
+version: 0.01
+description: Plug the corresponding commands on the server
+author: Devonex
+authors: [Devo, Devi] 
+website: https://github.com/Devonex/xCommands
+
+main: org.devonex.xcommands.Main
+database: false
+depend:
